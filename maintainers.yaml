@@ -10,8 +10,5 @@ maintainers:
       - name: "project-maintainers"
         members:
           - sourishkrout
-          - adambabik
-          - pastuxso
-          - peraltafederico
           - admc
           - jlewi
