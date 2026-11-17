@@ -26,7 +26,7 @@ repositories:
 
 website: "https://runme.dev/"
 
-artwork: "https://landscape.cncf.io/logos/runme-notebooks.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/runme-notebooks"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
